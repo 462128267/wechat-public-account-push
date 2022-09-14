@@ -20,14 +20,14 @@ export const config = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [orUlF6nPJ-vbxP2yLdY351RzfzU8,orUlF6sqwxPU0tI3pO9hD0Zs7fLI]
+  USERS: ["orUlF6nPJ-vbxP2yLdY351RzfzU8,orUlF6sqwxPU0tI3pO9hD0Zs7fLI"]
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "谭理雪0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "kC-wpQqgsucbws3-65uP-YrzuZLeNLKHfxUZSZnCkD8",
+      id: "orUlF6nPJ-vbxP2yLdY351RzfzU8,orUlF6sqwxPU0tI3pO9hD0Zs7fLI",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "kC-wpQqgsucbws3-65uP-YrzuZLeNLKHfxUZSZnCkD8",
       // 所在省份
       province: "重庆",
       // 所在城市
@@ -58,7 +58,7 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
+      name: "谭理雪1",
       id: "",
       useTemplateId: "",
       province: "",
@@ -70,7 +70,7 @@ export const config = {
       customizedDateList: []
     },
     {
-      name: "老婆2",
+      name: "谭理雪2",
       id: "",
       useTemplateId: "",
       province: "",
@@ -82,7 +82,7 @@ export const config = {
       customizedDateList: []
     },
     {
-      name: "老婆3",
+      name: "谭理雪3",
       id: "",
       useTemplateId: "",
       province: "",
