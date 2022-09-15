@@ -60,9 +60,9 @@ export const config = {
     {
       name: "老婆1",
       id: "orUlF6nPJ-vbxP2yLdY351RzfzU8",
-      useTemplateId: "SAEuw-44e0wkUGhkBKZErv4dPjhaHSRNgBhfPKY91EE",
+      useTemplateId: "32K93ipjLXaQXqJ7irxAg-iumk-c9DmhUYFxxN3IqmM",
       province: "贵州",
-      city: "凯里",
+      city: "贵阳",
       horoscopeDate: '3-9',
       horoscopeDateType: '今日',
       openUrl: "https://www.1212.com/luck",
