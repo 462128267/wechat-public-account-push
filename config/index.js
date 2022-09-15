@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "orUlF6sqwxPU0tI3pO9hD0Zs7fLI",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "93trFYLNA43rQeRnRk7ezpDbXGrqB8qWTztDS_lL6Ic",
+      useTemplateId: "n3YB5ovQU5irX_-bvdXVQd8Db_Hc7vm_u9hdWFFct1c",
       // 所在省份
       province: "重庆",
       // 所在城市
@@ -50,7 +50,7 @@ export const config = {
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
         // 在一起的日子
-        {"keyword": "love_day", date: "2022-09-08"},
+        {"keyword": "love_day", date: "2022-08-25"},
         // 结婚纪念日
         {"keyword": "marry_day", date: "2022-09-09"},
         // 退伍日
@@ -59,8 +59,8 @@ export const config = {
     },
     {
       name: "老婆1",
-      id: "	orUlF6nPJ-vbxP2yLdY351RzfzU8",
-      useTemplateId: "	93trFYLNA43rQeRnRk7ezpDbXGrqB8qWTztDS_lL6Ic",
+      id: "orUlF6nPJ-vbxP2yLdY351RzfzU8",
+      useTemplateId: "n3YB5ovQU5irX_-bvdXVQd8Db_Hc7vm_u9hdWFFct1c",
       province: "贵州",
       city: "贵阳",
       horoscopeDate: '3-9',
