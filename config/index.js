@@ -23,7 +23,7 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "谭理雪",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "orUlF6sqwxPU0tI3pO9hD0Zs7fLI",
       // 你想对他发送的模板消息的模板ID
@@ -65,23 +65,24 @@ export const config = {
       city: "贵阳",
       horoscopeDate: '3-9',
       horoscopeDateType: '今日',
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "https://tophub.today/n/KqndgxeLl9",
       festivals: [],
       customizedDateList: [
         {"keyword": "love_day", date: "2022-08-25"},
        ]
     },
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "门门",
+      id: "orUlF6njW3o-29Vftkbmxza2nvbM",
+      useTemplateId: "SAEuw-44e0wkUGhkBKZErv4dPjhaHSRNgBhfPKY91EE",
+      province: "贵州",
+      city: "凯里",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "https://tophub.today/n/KqndgxeLl9",
       festivals: [],
-      customizedDateList: []
+      customizedDateList: [{"keyword": "love_day", date: "2022-09-10"},
+        ]
     },
     {
       name: "老婆3",
