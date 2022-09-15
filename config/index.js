@@ -65,7 +65,7 @@ export const config = {
       city: "凯里",
       horoscopeDate: '3-9',
       horoscopeDateType: '今日',
-      openUrl: "https://tophub.today/n/KqndgxeLl9",
+      openUrl: "https://www.1212.com/luck",
       festivals: [],
       customizedDateList: [
         {"keyword": "love_day", date: "2022-08-25"},
@@ -126,9 +126,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "",
+  PROVINCE: "新疆",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "乌鲁木齐",
 
   /** 重要节日相关 */
 
