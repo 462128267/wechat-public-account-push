@@ -102,15 +102,15 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "",
+  CALLBACK_TEMPLATE_ID: "	MrAr1aJEayBVB_ctHBT6pnH24nW5_8yIdBCEzi3boH0",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: [
+  CALLBACK_USERS: ["orUlF6nPJ-vbxP2yLdY351RzfzU8"]
     {
-      // 一般都填自己
+      // 一般都填自己orUlF6nPJ-vbxP2yLdY351RzfzU8
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "orUlF6nPJ-vbxP2yLdY351RzfzU8",
     },
     // 你可以不断按格式往下增加
     // ...
@@ -123,9 +123,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "重庆",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "重庆",
 
   /** 重要节日相关 */
 
