@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "orUlF6sqwxPU0tI3pO9hD0Zs7fLI",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "n3YB5ovQU5irX_-bvdXVQd8Db_Hc7vm_u9hdWFFct1c",
+      useTemplateId: "SAEuw-44e0wkUGhkBKZErv4dPjhaHSRNgBhfPKY91EE",
       // 所在省份
       province: "重庆",
       // 所在城市
@@ -37,7 +37,7 @@ export const config = {
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "https://tophub.today/n/KqndgxeLl9",
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
@@ -60,14 +60,16 @@ export const config = {
     {
       name: "老婆1",
       id: "orUlF6nPJ-vbxP2yLdY351RzfzU8",
-      useTemplateId: "n3YB5ovQU5irX_-bvdXVQd8Db_Hc7vm_u9hdWFFct1c",
+      useTemplateId: "SAEuw-44e0wkUGhkBKZErv4dPjhaHSRNgBhfPKY91EE",
       province: "贵州",
       city: "贵阳",
       horoscopeDate: '3-9',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
       festivals: [],
-      customizedDateList: []
+      customizedDateList: [
+        {"keyword": "love_day", date: "2022-08-25"},
+       ]
     },
     {
       name: "老婆2",
