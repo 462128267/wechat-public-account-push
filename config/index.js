@@ -25,7 +25,7 @@ export const config = {
       // 想要发送的人的名字
       name: "谭理雪",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "orUlF6sqwxPU0tI3pO9hD0Zs7fLI",
+      id: "",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "SAEuw-44e0wkUGhkBKZErv4dPjhaHSRNgBhfPKY91EE",
       // 所在省份
@@ -62,7 +62,7 @@ export const config = {
       id: "orUlF6nPJ-vbxP2yLdY351RzfzU8",
       useTemplateId: "SAEuw-44e0wkUGhkBKZErv4dPjhaHSRNgBhfPKY91EE",
       province: "贵州",
-      city: "贵阳",
+      city: "凯里",
       horoscopeDate: '3-9',
       horoscopeDateType: '今日',
       openUrl: "https://tophub.today/n/KqndgxeLl9",
@@ -73,7 +73,7 @@ export const config = {
     },
     {
       name: "门门",
-      id: "orUlF6njW3o-29Vftkbmxza2nvbM",
+      id: "",
       useTemplateId: "SAEuw-44e0wkUGhkBKZErv4dPjhaHSRNgBhfPKY91EE",
       province: "贵州",
       city: "凯里",
@@ -126,7 +126,7 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
   CITY: "惠州",
 
